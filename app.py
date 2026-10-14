@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 # ============================================================
-# KIMCHIN ROOMMATE - ỨNG DỤNG TÍNH TIỀN PHÒNG TRỌ THÔNG MINH
+# BDUHome - ỨNG DỤNG TÍNH TIỀN PHÒNG TRỌ THÔNG MINH
 # Chạy: streamlit run app.py
 # Chat AI thật: cài openai và đặt biến môi trường OPENAI_API_KEY.
 # ============================================================
